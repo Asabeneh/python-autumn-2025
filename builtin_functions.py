@@ -1,4 +1,15 @@
 '''
+
+Functions:
+- Builtin Functions
+- Custom Functions
+
+
+'''
+
+
+
+'''
 print()
 len()
 abs()
