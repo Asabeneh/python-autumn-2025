@@ -46,7 +46,9 @@ Use Python’s ready-made functions to save time.
 
 * [ ] Revise all topics (videos or reading)
 * [ ] Complete **Day 1 & Day 2 exercises**
-* [ ] Review lesson code on GitHub
+
+  * [Python basic scripts](https://github.com/Asabeneh/30-Days-Of-Python?tab=readme-ov-file#-exercises---day-1)
+  * [Variables, built-in functions](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/02_Day_Variables_builtin_functions/02_variables_builtin_functions.md#-exercises---day-2)
 
 ---
 
@@ -103,3 +105,4 @@ Slice, join, and manipulate text like a Python wizard 🧙‍♂️
   * [Strings Exercises](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/04_Day_Strings/04_strings.md#-exercises---day-4)
 
 ---
+
