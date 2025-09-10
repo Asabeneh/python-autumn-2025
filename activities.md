@@ -36,23 +36,26 @@ Please revise the topics we covered in the previous lessons using the following 
 9. **Logical Operators**  
    👉 [Watch here](https://youtu.be/OMMF2zHGXlM?si=1c5oIjSCevGhaBLq)  
 
+10. **String and String methods**
+    👉 [Watch here](https://www.youtube.com/watch?v=m8otfcdOA3E&list=PLbvhRHYrmshRFWUrS6x2LgeE4CMte_m5K&index=10)
+
 ---
 
-## 📖 Reading Material (*30 Days of Python*)  
-- **Day 1** 👉 [Read here](https://github.com/Asabeneh/30-Days-Of-Python/tree/master)  
+## 📖 Reading Material (*30 Days of Python*)   
 - **Day 2** 👉 [Read here](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)  
 - **Day 3** 👉 [Read here](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/03_Day_Operators/03_operators.md)  
+- **Day 4** [Read here](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/04_Day_Strings/04_strings.md#-exercises---day-4)
 
 ---
 
 ## 💻 Lesson Code  
-- **Week 1 Code** 👉 [GitHub Repo](https://github.com/Asabeneh/python-autumn-2025)  
+- **Code** 👉 [GitHub Repo](https://github.com/Asabeneh/python-autumn-2025)  
 
 ---
 
 ## 📝 Action Items  
-- Revise **Week 1 & Week 2 topics** (videos or reading).  
-- Complete the exercises for **Day 1, Day 2 & Day 3**.  
-- Review the **Week 1 lesson code** on GitHub.  
+- Revise the given lesson using the video recordings or 30 Days of Python.  
+- Complete the exercises.  
+ 
 
 💬 If something is unclear, feel free to ask your questions in the group.  

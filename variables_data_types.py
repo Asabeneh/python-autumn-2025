@@ -65,3 +65,17 @@ Python is a high-level programming language for general-purpose programming. It 
 This challenge is designed for beginners and professionals who want to learn python programming language. It may take 30 to 100 days to complete the challenge. People who actively participate in the telegram group have a high probability of completing the challenge.
 
 '''
+
+'''
+
+Between (2, 3) and (10, 8)
+
+'''
+x1 = 2
+x2 = 3
+
+y1 = 10
+y2 = 8
+
+d = ((y1 - x1) ** 2 + (y2 - x2) ** 2) ** 0.5
+print(' The Euclidian distance between (2, 3) and (10, 8) is', round(d, 2))
