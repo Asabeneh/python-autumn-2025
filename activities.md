@@ -148,7 +148,7 @@ Write clean, reusable, and modular code.
 * **Day 8: Dictionaries** → [Read](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/08_Day_Dictionaries/08_dictionaries.md)
 * **Day 9: Conditionals** → [Read](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/09_Day_Conditionals/09_conditionals.md)
 * **Day 10: Loops** → [Read](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md)
-* * **Day 10: Functions** → [Read](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/11_Day_Functions/11_functions.md)
+* **Day 11: Functions** → [Read](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/11_Day_Functions/11_functions.md)
 
 ---
 
