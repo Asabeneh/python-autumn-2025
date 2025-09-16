@@ -106,36 +106,36 @@ Slice, join, and manipulate text like a Python wizard 🧙‍♂️
 
 ---
 
-## 🎬 Week 3 – Video Lessons (Data Structures, Conditionals & Functions)
+## 🎬 Week 3 – Video Lessons (Data Structures, Conditionals, Loops & Functions)
 
 🎯 *Time to level up! Learn how to work with collections, control flow, and reusable code.*
 
-▶️ **11 - Lists**
-Store multiple items and manage them with powerful list methods.
+▶️ **11 - Lists**  
+Store multiple items and manage them with powerful list methods.  
 🔗 [Watch Video](https://youtu.be/5shjY9yN_J0?si=LdzeW_b2aw4EUSHO)
 
-▶️ **12 - Conditionals (Part 1)**
-Control the flow of your program with `if`, `elif`, and `else`.
+▶️ **12 - Conditionals**  
+Control the flow of your program with `if`, `elif`, and `else`.  
 🔗 [Watch Video](https://youtu.be/hiBEtpA_ZbU?si=Cn31OxexeGh-8-rQ)
 
 ▶️ **13 - Loops**
-Repeat actions efficiently with `for` and `while` loops.
+Repeat actions efficiently with `for` and `while` loops.  
 🔗 [Watch Video](https://youtu.be/xSqvQKVj_2I?si=aN-k3Zyw8Jn3f4EW)
 
-▶️ **14 - Sets**
-Work with unique, unordered collections in Python.
+▶️ **14 - Sets**  
+Work with unique, unordered collections in Python.  
 🔗 [Watch Video](https://youtu.be/03ehVZpxprA?si=kCQg5n2gWcnBh5E6)
 
-▶️ **15 - Tuples**
-Store fixed, ordered groups of values.
+▶️ **15 - Tuples**  
+Store fixed, ordered groups of values.  
 🔗 [Watch Video](https://youtu.be/_ajZ_PnOQcw?si=tswt1-G5b7GFW2sC)
 
-▶️ 16 - Dictionary
-Learn how to store and retrieve data with key-value pairs.
+▶️ **16 - Dictionary**  
+Learn how to store and retrieve data with key-value pairs.    
 🔗 [Watch Video](https://youtu.be/KSJwLtPL0wU?si=veRC41tFK7DI-0XR)
 
-▶️ **17 - Functions**
-Write clean, reusable, and modular code.
+▶️ **17 - Functions**  
+Write clean, reusable, and modular code.  
 🔗 [Watch Video](https://youtu.be/Ayxtidn6Wnw?si=5rFqEGI0cM3AFiJl)
 
 ---
