@@ -18,13 +18,22 @@ This challenge is designed for beginners and professionals who want to learn pyt
 ## Basic Python Syntax
 
 ```python
-# Builtin function
+# Basic Python Syntax
 print('Hello World!')
 
 print(1 + 9) # 10
 print(2  ** 10) # 1024
 print(9 > 8) # True
 print(9 > 8 and 1 < 0) # False
+```
+
+```javascript
+// Basic JavaScript Syntax
+console.log('Hello World!')
+console.log(1 + 9) // 10
+console.log(2  ** 10) // 1024
+console.log(9 > 8) // True
+console.log(9 > 8 and 1 < 0) // False
 ```
 
 ## Markdown Reference
