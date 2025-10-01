@@ -2,6 +2,7 @@ from countries import countries
 from pprint import pprint
 # pprint(countries)
 
+print(len(countries))
 # for country in countries:
 #     if country.startswith('C'):
 #         print(country, countries.count(country))
@@ -26,3 +27,6 @@ for letter in alphabets:
 
 
 pprint(sorted(lst, key = lambda x: x['count'], reverse=True))
+
+nums = [1, 2, 3, 4, 5, 6, 7]
+# what is middle of 7

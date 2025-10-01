@@ -118,7 +118,7 @@ print(list_methods)
 countries.reverse()
 print(countries)
 
-countries =  ['Finland', 'Estonia', 'Denmark', 'Sweden', 'Norway']
+countries =  ['Finland', 'Estonia', 'Denmark', 'Sweden', 'Norway','Iceland']
 countries_copy = countries.copy()
 
 """ countries_copy.reverse()
