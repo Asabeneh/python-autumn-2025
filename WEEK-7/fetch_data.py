@@ -26,3 +26,4 @@ for cat in data:
 
 average_life_span = sum(life_spans) / len(life_spans)
 print(average_life_span)
+
